@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "postprocessing": "^6.36.7",
+    "three": "^0.173.0"
+  },
+  "devDependencies": {
+    "vite": "^6.0.8"
+  }
+}
